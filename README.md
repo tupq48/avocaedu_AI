@@ -10,3 +10,5 @@ this is repository about solving some leetcode problem for PartTime AI teacher o
 8. https://leetcode.com/problems/maximum-sum-with-exactly-k-elements/description/
 9. https://leetcode.com/problems/count-good-triplets/
 10. https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/description/
+11. https://leetcode.com/problems/count-equal-and-divisible-pairs-in-an-array/
+12. https://leetcode.com/problems/determine-color-of-a-chessboard-square/
