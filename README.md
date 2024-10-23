@@ -12,3 +12,11 @@ this is repository about solving some leetcode problem for PartTime AI teacher o
 10. https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/description/
 11. https://leetcode.com/problems/count-equal-and-divisible-pairs-in-an-array/
 12. https://leetcode.com/problems/determine-color-of-a-chessboard-square/
+13. https://leetcode.com/problems/check-if-all-characters-have-equal-number-of-occurrences/
+14. https://leetcode.com/problems/find-missing-and-repeated-values
+15. https://leetcode.com/problems/points-that-intersect-with-cars/
+16. https://leetcode.com/problems/count-symmetric-integers/
+17. https://leetcode.com/problems/maximum-value-of-a-string-in-an-array/
+18. https://leetcode.com/problems/check-if-all-as-appears-before-all-bs/
+19. https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/
+20. https://leetcode.com/problems/check-if-two-chessboard-squares-have-the-same-color/
